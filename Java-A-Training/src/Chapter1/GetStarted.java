@@ -12,7 +12,7 @@ public class GetStarted {
         char positionCode; // (S - senior, J - junior; I - intern)
 
         //  Assign
-        age = 20;
+        age = 21;
         height = 2.4;
         salary = 45000.50f; /* add f at the end of number to tell compiler value is a float. */
         isContractor = true;
