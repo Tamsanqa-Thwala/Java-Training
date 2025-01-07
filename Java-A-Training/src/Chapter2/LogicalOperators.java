@@ -18,5 +18,12 @@ public class LogicalOperators {
          *  - T || T
          *  - F && F
          */
+
+//        String str = "hello";
+//        System.out.println(str.length());
+//        int [] arr = {1,3};
+//        for(int num : arr){
+//            System.out.println(num);
+//        }
     }
 }
