@@ -8,6 +8,6 @@ public static void main(String[] args) {
    {             
       numbers[i] = i * 2;        
    }         
-    System.out.println(Arrays.toString(numbers));    
+    System.out.println(Arrays.toString(numbers)); // add Arrays class import to class
  } 
 }

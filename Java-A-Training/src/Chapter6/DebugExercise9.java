@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class DebugExercise9{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter a string:");
-        String s = scanner.next();
+        System.out.println("Enter a string:"); //add prompt to enter a string
+        String s = scanner.next(); // add import of scanner class
         scanner.close();
 
         if (s.length() >= 6) {

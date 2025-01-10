@@ -6,5 +6,6 @@ public class DebugExercise7 {
    
 private static void printMessage(String message) {         
     System.out.println("Message: " + message);
+    // remove return statement as method has void as return type
   }  
 }
