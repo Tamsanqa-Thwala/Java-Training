@@ -7,7 +7,7 @@ public class ArrayManipulation {
         final int ALL_NUMBERS_COUNT = 20;
         int [] randomNumbers = new int[20];
         int evenCount = 0;
-        
+
         for(int i = 0; i < ALL_NUMBERS_COUNT; i++){
             int x = rng.nextInt(10,75);
             if(x % 2 == 0) evenCount++;
